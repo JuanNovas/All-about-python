@@ -14,6 +14,6 @@ z1 = 2 + 2j
 abs(z1) # Returns 2.8284271247461903
 
 ## OBJ
-from utils.bi_functions.abs import Point2d
+from utils.abs import Point2d
 obj_with_abs_property = Point2d(4,4) # Creates an object with the __abs__ property
 abs(obj_with_abs_property) # Returns 5.656854249492381
