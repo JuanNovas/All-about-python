@@ -14,6 +14,6 @@ bytearray([72, 101, 108, 108, 111]) # Returns bytearray(b'Hello')
 
 bytearray(5) # Returns bytearray(b'\x00\x00\x00\x00\x00')
 
-bytearray("Hello World", 'utf-8') # Returns bytearray(b'Hola Mundo')
+bytearray("Hello World", 'utf-8') # Returns bytearray(b'Hello World')
 
 bytearray("Hello, smiley face: ☺", 'ascii', errors='replace') # Returns bytearray(b'Hello, smiley face: ?')
