@@ -7,6 +7,7 @@
 # optimize: sets the optimization level of the compiled code, where 0 is no optimization, 1 removes assert statements, and 2 removes both assert statements and docstrings.
 
 
+result = None
 code = "x = 5\ny = 10\nresult = x + y"
 compile_code = compile(code, '<string>', 'exec')
 exec(compile_code)
