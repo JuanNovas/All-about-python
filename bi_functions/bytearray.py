@@ -1,3 +1,5 @@
+# -- bytearray([source[, encoding[, errors]]]) --
+
 # Takes an iterable of INTs between 0 and 255 or an INT that represents the lenght of the array
 # Returns a mutable sequence of integers
 # can take an 'encoding' parameter and an 'errors' parameter if 'encoding' is present.
