@@ -1,3 +1,5 @@
+# -- all(iterable) --
+
 # Takes an iterable as argument
 # Returns True if all elements are True (or if the iterable is empty), otherwise, False
 # Answers the question, "None of the elements on the iterable are false"
