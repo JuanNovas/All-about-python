@@ -1,3 +1,5 @@
+# -- bin(x) --
+
 # Takes an INT or an OBJ with __index__ method declared
 # Returns a STR with a prefix "0b" and the number in binary
 
