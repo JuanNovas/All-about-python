@@ -1,3 +1,5 @@
+# -- abs(x) -- 
+
 # Acepts a INT, FLOAT, COMPLEX NUMBER or an OBJ with __abs__() method
 # Returns the absolute number of the parameter, for complex numbers it returns the magnitude
 
