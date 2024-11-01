@@ -1,3 +1,5 @@
+# -- any(iterable) --
+
 # Takes an iterable as argument
 # Returns True if any element of the iterable is True
 # Answers the statement, "At least one element is True"
