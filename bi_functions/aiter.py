@@ -1,4 +1,6 @@
-# Returns an asynchronous iterator from ab asynchronouse iterable
+# -- aiter(async_iterable)
+
+# Returns an asynchronous iterator from an asynchronouse iterable
 # Equivalent of calling x.__aiter__()
 
 import asyncio
