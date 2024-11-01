@@ -1,3 +1,5 @@
+# -- boold([x]) --
+
 # Takes an OBJ and returns TRUE or FALSE
 
 bool("aaa") # Returns True
