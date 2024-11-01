@@ -1,3 +1,5 @@
+# -- ascii(object) --
+
 # Returns an ascii printable representation of an object
 # Takes an object as a parameter
 # Calls the __repr__ method and scapes the non ascii caracters
