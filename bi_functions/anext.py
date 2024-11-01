@@ -1,3 +1,5 @@
+# -- *awaitable anext(async_iterator[, default]) --
+
 # Asynchronous version of next
 # Takes an asynchronous iterator and returns the next item
 
