@@ -1,3 +1,5 @@
+# -- callable(OBJ) -- 
+
 # Takes and objects as an argument.
 # Returns True if the object is callable.
 # Instances of classes are callable if their have a __call__() method.
