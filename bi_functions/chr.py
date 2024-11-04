@@ -1,3 +1,5 @@
+# -- chr(i) --
+
 # Takes an INT between 0 and 1,114,111
 # Returns the respective UNICODE character as a STR
 # Raises ValueError if the INT is out of range
