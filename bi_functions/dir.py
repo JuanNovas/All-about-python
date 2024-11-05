@@ -1,3 +1,5 @@
+# -- dir([object]) --
+
 # Returns a list of names in the specific scope
 # With no arguments return the names of the current local scope
 # With an argument attempt to return a list of valid attributes for that object
