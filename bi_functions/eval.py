@@ -1,3 +1,5 @@
+# -- eval(expression[, globals[, locals]]) --
+
 # Executes code given as a STR
 # Also accepts 'globals' and 'locals' parameter to especify the scope the expression is capable to access
 # Returns the result of the evaluated expression
