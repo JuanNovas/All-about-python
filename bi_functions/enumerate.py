@@ -1,3 +1,5 @@
+# -- enumerate(iterable, start=0) --
+
 # Returns an enumeate object
 # Takes an iterable and an optional start number
 # Enumerate obj __next__ method returns a tuple containing the count and the value
