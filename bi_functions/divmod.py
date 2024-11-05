@@ -1,3 +1,5 @@
+# -- divmod(a, b) --
+
 # Takes 2 non-complex numbers as arguments
 # Returns a Tuple containing the quotient and the remainder
 # Equivalent to doing (a // b, a % b) for integers
