@@ -1,3 +1,7 @@
+# -- dict(**kwarg) --
+# -- dict(mapping, **kwarg) --
+# -- dict(iterable, **kwarg) --
+
 # Creates a DICT obj
 # Takes as a parameter a mapping object, an iterable that retrieves 2 items in each iteration or keyword arguments
 
