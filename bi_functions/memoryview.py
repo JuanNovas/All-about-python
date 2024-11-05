@@ -1,3 +1,5 @@
+# -- mmemoryview(object) --
+
 # Returns a memory view object created from the given argument
 
 
