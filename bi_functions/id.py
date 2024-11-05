@@ -1,3 +1,5 @@
+# -- id(object) --
+
 # Returns the 'identity' of an object as an INT
 # This id is garantee to be unique during its lifetime
 # Two objects with non-overlapping lifetime may have the same id() value
