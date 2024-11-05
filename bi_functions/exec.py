@@ -1,3 +1,5 @@
+# -- exec(object[, globals[, locals]]) --
+
 # Executes code given as a STR
 # Also accepts 'globals' and 'locals' parameter to especify the scope the expression is capable to access
 # Accepts multi line scripts
