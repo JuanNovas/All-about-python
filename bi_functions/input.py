@@ -1,3 +1,5 @@
+# -- input([prompt]) --
+
 # Waits for the user to type an input in the terminal and returns the value as a STR
 # When EOF is read, EOFError is raised
 # EOF in Windows is CTRL+Z, in Unix/Linux/MacOs is CTRL+D
