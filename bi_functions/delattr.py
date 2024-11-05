@@ -1,3 +1,5 @@
+# -- delattr(object, name) --
+
 # Delets an atribute from an object
 # Takes the OBJ and the atribute name as a STR
 # Equivalent: delattr(x, 'foobar') == del x.foobar
