@@ -1,3 +1,5 @@
+# -- float([x]) --
+
 # Creates a FLOAT obj from a NUMBER or a STR
 # If no argument is given, returns 0.0
 
