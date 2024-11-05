@@ -1,3 +1,6 @@
+# -- max(iterable, *[, key, default]) --
+# -- max(arg1, arg2, *args[, key]) --
+
 # Returns the largest item
 # If one argument is given it should be an Iterable
 # If two or more parameters are given the largest is returned
