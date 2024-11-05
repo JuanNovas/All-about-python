@@ -1,3 +1,5 @@
+# -- format(value[, format_spec]) -- 
+
 # Converts a value to a formated representation
 # Takes a value and a format specification
 # Format specification is written in 'Format Specification Mini-Langugae'
