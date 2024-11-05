@@ -1,3 +1,5 @@
+# -- (iterator[, default]) --
+
 # next(iterator[, default])
 # Retrieves the next item from an iterator by calling its __next__() method
 # When the iterator is exhausted it returns the default value, if given, or raise a StopIteration
