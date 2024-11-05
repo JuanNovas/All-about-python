@@ -1,3 +1,5 @@
+# -- getattr(object, name[, default]) --
+
 # Returns the value of an atribute of an OBJ
 # Takes the OBJ, the name of the atribute and an optional default value
 # If no default value is given and the atribute does not exist AttributeError is raised
