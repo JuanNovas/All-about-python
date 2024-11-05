@@ -1,3 +1,5 @@
+# -- compile(source, filename, mode, flags=0, dont_inherit=False, optimize=-1) --
+
 # Takes source code in STR, BYTE STR or AST obj and compiles it into a Code object that can be executed with exec() or eval()
 # compile(source, filename, mode, flags=0, dont_inherit=False, optimize=1)
 # filename: file to read from or '<string>' if source is a string
