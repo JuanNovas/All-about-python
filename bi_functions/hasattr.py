@@ -1,3 +1,5 @@
+# -- hasattr(object, name) --
+
 # Returns a BOOL representing if the OBJ has the atribute
 # Takes an OBJ and the name of an atribute as a STR
 
