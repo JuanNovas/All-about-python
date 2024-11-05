@@ -1,3 +1,5 @@
+# -- issubclass(class, classinfo) --
+
 # Returns True if the class is a subclass of he second parameter
 # Returns a BOOL
 # Takes an Class and a Class or Tuple of Classes
