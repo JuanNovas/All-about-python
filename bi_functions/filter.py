@@ -1,3 +1,5 @@
+# -- filter(function, iterable) --
+
 # Creates an iterator from those elements of an iterable for which the function returns True
 # Takes a function and an iterable
 # The values of the iterable will be passed to the funtion
