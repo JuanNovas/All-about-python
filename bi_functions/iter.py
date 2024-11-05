@@ -1,3 +1,5 @@
+# -- iter(object[, sentinel]) --
+
 # Returns an Iterator OBJ 
 # Takes an iterable or a Callable OBJ and a 'sentinel', when the iterator returns the same value as the 'sentinel' stops
 
