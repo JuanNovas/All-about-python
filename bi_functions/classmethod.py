@@ -1,3 +1,5 @@
+# -- @classmethod -- 
+
 # Decorator for methods
 # Makes the method callable from the class
 # The first parameter is the class itself not an instance, even if called with an instance
