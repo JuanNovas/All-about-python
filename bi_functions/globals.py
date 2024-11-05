@@ -1,3 +1,5 @@
+# -- globals() --
+
 # Returns a dictionary including the current module namespace
 
 
