@@ -1,3 +1,5 @@
+# -- map(function, iterable, ...) --
+
 # Returns an iterator that applies a function to every item of the iterable
 # Takes a function and N amount of itetables (N >= 1)
 
