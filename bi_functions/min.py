@@ -1,3 +1,6 @@
+# -- min(iterable, *[, key, default]) --
+# -- min(arg1, arg2, *args[, key]) --
+
 # Returns the smallest item
 # If one argument is given it should be an Iterable
 # If two or more parameters are given the smallest is returned
