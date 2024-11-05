@@ -1,3 +1,5 @@
+# -- locals() --
+
 # Returns a dictionary of the current local symbol table
 
 locals() # Returns: 
