@@ -1,3 +1,5 @@
+# -- complex([real[, imag]]) --
+
 # Converts a single string to a complex number or creates a complex number from real and imaginary parts
 
 complex('+1.23') # Returns (1.23+0j)
