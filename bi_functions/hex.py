@@ -1,3 +1,5 @@
+# -- hex(x) --
+
 # Converts an INT to a lowercase hexadecimal STR
 
 hex(255) # Returns: '0xff'
