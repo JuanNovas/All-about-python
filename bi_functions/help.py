@@ -1,3 +1,5 @@
+# -- help([object]) --
+
 # Activates the help mode in the terminal
 # Takes an optional OBJ positional parameter
 
