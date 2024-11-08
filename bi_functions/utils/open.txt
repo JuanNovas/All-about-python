@@ -1,0 +1,6 @@
+Example .txt file to showcase open function
+
+
+
+
+end of file.
