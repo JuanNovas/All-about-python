@@ -8,3 +8,9 @@
 isinstance(4, int) # Returns: True
 
 isinstance('aaa', (int, float)) # Returns: False
+
+
+# Example when rewriting the equal comparison in a custom object
+    def __eq__(self, other: NameOfTheClass):
+        if not isinstance(other, NameOfTheClass):
+            raise TypeError
